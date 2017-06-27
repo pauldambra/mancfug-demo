@@ -1,0 +1,25 @@
+type project
+title
+    Demo
+owners
+    Paul D'Ambra <paul.dambra@gmail.com>
+authors 
+    Paul D'Ambra <paul.dambra@gmail.com>
+projectUrl
+    https://github.com/pauldambra/manfug-demo
+iconUrl
+    https://raw.githubusercontent.com/pauldambra/manfug-demo/master/docs/files/img/logo.png
+licenseUrl
+    https://github.com/pauldambra/manfug-demo/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    fsharp
+summary
+    a demo description
+description
+    this really is a description
+
+
